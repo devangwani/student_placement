@@ -1,0 +1,8 @@
+[theme]
+base="dark"
+primaryColor="#00b4d8"         # neon aqua
+backgroundColor="#0a0a0a"
+secondaryBackgroundColor="#1a1a1a"
+textColor="#e0e0e0"
+font="monospace"
+

@@ -1,0 +1,28 @@
+{
+  "raw_csv_path": "data/raw/placementdata.csv",
+  "target_col": "PlacementStatus",
+  "feature_map": {
+    "CGPA": "CGPA",
+    "Internships": "Internships",
+    "Projects": "Projects",
+    "WorkshopsCertifications": "Workshops/Certifications",
+    "AptitudeTestScore": "AptitudeTestScore",
+    "SoftSkillRating": "SoftSkillsRating",
+    "ExtraCurricularActivities": "ExtracurricularActivities",
+    "PlacementTraining": "PlacementTraining",
+    "SSC": "SSC_Marks",
+    "HSC": "HSC_Marks"
+  },
+  "features_found": [
+    "CGPA",
+    "Internships",
+    "Projects",
+    "Workshops/Certifications",
+    "AptitudeTestScore",
+    "SoftSkillsRating",
+    "ExtracurricularActivities",
+    "PlacementTraining",
+    "SSC_Marks",
+    "HSC_Marks"
+  ]
+}
